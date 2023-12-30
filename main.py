@@ -9,7 +9,7 @@ import threading
 number_of_threads = 1
 amount_max = 0.00005          #
 amount_min = 0.00001          # price in ETH
-liquidity_amount = 0.000001   #
+liquidity_amount = 0.000002   #
 
 time_delay_min = 30  # Минимальная и
 time_delay_max = 60  # Максимальная задержка между акками в секундах
